@@ -8,7 +8,7 @@ I am Channel Auto Caption bot.
 I can automatically add pre-setted caption and button to the files.
 You can also use Markdown styles, supported Dynamic variables in seting caption (Details in below buttons).
 
-• Commands
+• My Commands
 - /set_cap To Set Caption
 - /set_btn To Set Button
 - /rmv_cap To Remove Caption
